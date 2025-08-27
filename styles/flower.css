@@ -105,11 +105,14 @@ main {
     width: 400px;
     height: 325px;
 }
+.text-center{
+    text-align: center;
+}
 .users{
     text-align: center;
     padding: 50px 140px;
     text-align: center;
-    background-color: #bfbde0; 
+    background-color: #9b9ab8; 
     border-radius: 24px;
     margin: 10px;
 
@@ -159,6 +162,72 @@ main {
 .defaulf-2{
     background-color: #8683dd 10%;
 }
+.defaulf-3{
+    color:#757575
+}
+.defaulf-4{
+    color:#B3B3B3
+}
+.design{
+    font-size: 24px;
+    font-weight: 700px;
+    color: #252432;
+    margin-bottom: 8px;
+    /* margin: 24px 95px 8px 24px; */
+}
+.template{
+    font-size: 16px;
+    font-weight: 400px;
+    margin-bottom: 24px;
+}
+.person{
+    font-size: 16px;
+    font-weight: 600px;
+    color:#1E1E1E;
+    margin-bottom: 24px;
+}
+.date{
+    display: block;
+    color: #B3B3B3;
+    font-size: 16px;
+    font-weight: 400px;
+}
+.review-image{
+    width: 40px;
+    height: 40px;
+    border-radius: 9999px;
+    margin-right: 6px;
+}
+.studio{
+    display: block;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    /* margin: 24px 44px 24px 12px; */
+}
+.review-con{
+    display: flex;
+    gap: 20px;
+     
+}
+.container-1{
+    padding:24px 24px;
+    border-radius:14px;
+    width:367px;
+    height:243px;
+    box-shadow: 0px 6px 50px 0px #F2EDED
+
+}
+.review-title{
+    font-size: 42px;
+    font-weight: bold;
+    margin-top: 135px ;
+    margin-bottom: 50opx;
+
+}
+
+
 
 
 
